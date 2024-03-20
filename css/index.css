@@ -1,0 +1,12 @@
+body {
+    background-color: #171F48;
+}
+
+nav {
+    background-color: #968219;
+}
+
+.navbar-nav > li{
+    margin-left: 40px ;
+    margin-right: 40px ;
+}
